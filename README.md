@@ -5,4 +5,4 @@
 ## <a href="https://dinhphuongnam987.github.io/coco.github.io/">Demo Here</a>
 
 ## Technologies:
-* **HTML, CSS, Javascript, JQuery, Responsive**
+* **HTML, CSS, Javascript, JQuery, Bootstrap, Responsive**
